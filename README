@@ -1,0 +1,24 @@
+Original CD Release you need:
+https://musicbrainz.org/release/8bfe454d-31a4-4fa0-bff2-767317ef4718
+https://www.discogs.com/release/968809-Jeremy-Soule-The-Elder-Scrolls-III-Morrowind-Original-Soundtrack
+
+Here is the lists with which song is which.
+
+Tracklist CD				<-> Morrwind Game files
+01.Nerevar Rising.flac			<-> Morrowind/Data Files/Music/Special/morrowind title.mp3
+02.Bright Spears, Dark Blood.flac	<-> Morrowind/Data Files/Music/Battle/MW battle1.mp3
+03.Over the Next Hill.flac		<-> Morrowind/Data Files/Music/Explore/mx_explore_1.mp3
+04.Knight's Charge.flac			<-> Morrowind/Data Files/Music/Battle/MW battle2.mp3
+05.Peaceful Waters.flac			<-> Morrowind/Data Files/Music/Explore/mx_explore_2.mp3
+06.Dance of Swords.flac			<-> Morrowind/Data Files/Music/Battle/MW battle3.mp3
+07.The Road Most Travveled.flac		<-> Morrowind/Data Files/Music/Explore/mx_explore_3.mp3
+08.Hunter's Pursuit.flac		<-> Morrowind/Data Files/Music/Battle/MW battle4.mp3
+09.Blessing of Vivec.flac		<-> Morrowind/Data Files/Music/Explore/mx_explore_4.mp3
+10.Ambush.flac				<-> Morrowind/Data Files/Music/Battle/MW battle5.mp3
+11.Silt Sunrise.flac			<-> Morrowind/Data Files/Music/Explore/mx_explore_5.mp3
+12.Stormclouds on the Battlefield.flac	<-> Morrowind/Data Files/Music/Battle/MW battle7.mp3
+13.Shed Your Travails.flac		<-> Morrowind/Data Files/Music/Explore/mx_explore_6.mp3
+14.Drumbeat of the Dunmer.flac		<-> Morrowind/Data Files/Music/Battle/MW battle8.mp3
+15.Caprice.flac				<-> Morrowind/Data Files/Music/Explore/mx_explore_7.mp3 
+
+If you use openmw, you can just overwrite lossless cd files with games file. Only the name must be like in list below.
